@@ -33,6 +33,7 @@ nrow(base_acotada) #2798
 #****************************
 #MODEL SPECIFICATIONS
 #****************************
+
 model <- '
 
 ##modelo de medida  (measurement equations)
