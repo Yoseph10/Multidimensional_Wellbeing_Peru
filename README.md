@@ -17,3 +17,7 @@
 ### Final output
 The paper is published [here](https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/21560)
 
+### MIMIC (Path model)
+![Pathmodel](https://user-images.githubusercontent.com/70246254/171022202-dae4c167-fd00-4d42-ade0-987e9c8caf55.png)
+
+
