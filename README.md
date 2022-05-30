@@ -6,7 +6,7 @@
 - This repository provides the codes I created for my bachelor thesis called Assessing multidimensional well-being in Peru: an empirical operationalization of the capabilities approach through the estimation of Multiple Indicator and Multiple Cause Models . I used Survey on Multidimensional Wellbeing. This dataset was provided by Instituto de Desarrollo Humano de América Latina (IDHAL-PUCP).
 - This thesis was was approved unanimously with the outstanding mention.
 
-### Structure of the respository 
+### Structure of the repository 
 - This repository has 4 scripts: 3 do files and 1 R script.
 - 1) Variables recode: use the dataset provided by IDHAL-PUCP and recode some variables that are used as functionings and covariables
 - 2) MIMIC estimation: estimates the econometric model using lavaan R package and estimates the capabilities' scores.
